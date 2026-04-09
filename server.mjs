@@ -1,4 +1,5 @@
 //Conected to LaunchDarkly SDK for Node.js
+//Feature flag set to true
 import * as LaunchDarkly from "@launchdarkly/node-server-sdk";
 import express from "express";
 import dotenv from "dotenv";
